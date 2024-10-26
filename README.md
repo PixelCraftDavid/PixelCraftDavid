@@ -1,7 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&center=true&random=true&width=500&height=60&lines=Programando+ando+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&center=true&random=true&width=500&height=60&lines=Si+puedes+imaginarlo%2C+puedes+programarlo" alt="Typing SVG" /></a>
 
 
-# 💫 About Me:
+# 💫 Acerca de mi:
 🔭 En qué trabajo: Proyectos web con HTML, CSS, Bootstrap y PHP.<br>👯 Colaboraciones: Busco trabajar en proyectos front-end y back-end.<br>🌱 Aprendizaje: Explorando TypeScript y desarrollo móvil en Android Studio.<br>💬 Pregunta: Desarrollo web y bases de datos MySQL.<br>⚡ Curiosidad: También desarrollo aplicaciones móviles.
 
 
