@@ -11,7 +11,8 @@
 
 
 ## 🌐 Redes Sociales:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/angel.santospacheco.94/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@davidpacheco0106?_t=8qrCX43puaL&_r=1) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/angel.santospacheco.94/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@davidpacheco0106?_t=8qrCX43puaL&_r=1)
+
 
 # 💻 Tech Stack:
 <div align="center">
