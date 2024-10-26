@@ -1,8 +1,7 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&random=true&width=500&height=60&lines=Si+puedes+imaginarlo%2C;puedes+programarlo" alt="Typing SVG" />
-    </a>
-</div>
+| |
+| :-: |
+| ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&center=true&vCenter=true&random=true&width=500&height=60&lines=Si+puedes+imaginarlo%2C;puedes+programarlo) |
+
 
 
 # 💫 Acerca de mi:
