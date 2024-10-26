@@ -10,7 +10,7 @@
 🔭 En qué trabajo: Proyectos web con HTML, CSS, Bootstrap y PHP.<br>👯 Colaboraciones: Busco trabajar en proyectos front-end y back-end.<br>🌱 Aprendizaje: Explorando TypeScript y desarrollo móvil en Android Studio.<br>💬 Pregunta: Desarrollo web y bases de datos MySQL.<br>⚡ Curiosidad: También desarrollo aplicaciones móviles.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/angel.santospacheco.94/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@davidpacheco0106?_t=8qrCX43puaL&_r=1) 
 
 # 💻 Tech Stack:
