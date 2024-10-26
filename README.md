@@ -6,7 +6,7 @@
 
 
 
-# 💫 Acerca de mi:
+# 💫 Acerca de mi <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGtvcWxxN3J6cWJoOWVqeXEwOHpja3JnbWtuMGZ1NzdnbHc5eWZvYiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/F73KLZL9eAfDcDQFAt/giphy.gif" width="40">:
 🔭 En qué trabajo: Proyectos web con HTML, CSS, Bootstrap y PHP.<br>👯 Colaboraciones: Busco trabajar en proyectos front-end y back-end.<br>🌱 Aprendizaje: Explorando TypeScript y desarrollo móvil en Android Studio.<br>💬 Pregunta: Desarrollo web y bases de datos MySQL.<br>⚡ Curiosidad: También desarrollo aplicaciones móviles.
 
 
