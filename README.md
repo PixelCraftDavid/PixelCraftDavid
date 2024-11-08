@@ -14,7 +14,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/angel.santospacheco.94/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@davidpacheco0106?_t=8qrCX43puaL&_r=1)
 
 
-# 💻 Tech Stack:
+# 💻 Pila de tecnología:
 <div align="center">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
@@ -53,14 +53,14 @@
 
 
 
-# 📊 GitHub Stats:
+# 📊 Estadísticas de GitHub:
 | ![](https://github-readme-stats.vercel.app/api?username=PixelCraftDavid&theme=holi&hide_border=false&include_all_commits=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=PixelCraftDavid&theme=holi&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelCraftDavid&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 | :-: | :-: | :-: |
 
 
 
 
-### 🔝 Top Contributed Repo
+### 🔝 Repositorio con mayor contribución
 ![](https://github-contributor-stats.vercel.app/api?username=PixelCraftDavid&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
